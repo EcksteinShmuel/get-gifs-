@@ -1,0 +1,9 @@
+.images {
+    background-color: beige
+}
+  
+.image {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
